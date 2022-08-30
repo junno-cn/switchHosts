@@ -1,2 +1,2 @@
 # switchHosts
-# junno personal swithHosts profile
+# junno personal switchosts remote profile
